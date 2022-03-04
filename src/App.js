@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - GIT - new branch
+          Learn React (NEW FEATURE BRANCH)
         </a>
       </header>
     </div>
